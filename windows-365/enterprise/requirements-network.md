@@ -88,7 +88,7 @@ You must allow traffic in your network configuration to the following service UR
 
 | Device or service | Network connectivity required URLs and ports | Notes |
 | --- | --- | --- |
-| Physical device | [Link](/azure/virtual-desktop/safe-url-list?tabs=azure#remote-desktop-clients) | For Remote Desktop client connectivity and updates. |
+| Physical device | [Link](/azure/virtual-desktop/safe-url-list?tabs=azure#end-user-devices) | For Remote Desktop client connectivity and updates. |
 | Microsoft Intune service | [Link](/mem/intune/fundamentals/intune-endpoints) | For Intune cloud services like device management, application delivery, and endpoint analytics. |
 | Azure Virtual Desktop session host virtual machine | [Link](/azure/virtual-desktop/safe-url-list?tabs=azure#session-host-virtual-machines) | For remote connectivity between Cloud PCs and the backend Azure Virtual Desktop service. |
 | Windows 365 service | [Link](#windows-365-service) | For provisioning and health checks. |
